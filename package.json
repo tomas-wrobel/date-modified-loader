@@ -1,0 +1,9 @@
+{
+  "name": "date-modified-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "tomas-wrobel",
+  "license": "ISC"
+}
